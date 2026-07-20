@@ -3,11 +3,11 @@
   "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
   "spider": "https://ncstatic-file.clewm.net/rsrc/2026/0526/13/3c2fe19f3ae9dcf760356cb9e958ef48.jpg;md5;7c546ee0441d827c11541a81c5b98a7b",
   "spider": "https://img.51shazhu.com/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260720/nQDG/0X0/07201030.png;md5;373af0a66bdecff3a7baedf380496f2b",
-  "warningText": "tv提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
+  "warningText": "tv提示:\n📢永远免费 \n📢切勿贩卖",
   "sites": [
     {
       "key": "豆瓣2",
-      "name": "英影追剧",
+      "name": "蓝宝精选合成",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
