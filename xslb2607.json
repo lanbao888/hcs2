@@ -1,7 +1,6 @@
 {
   "spider": "https://img.51shazhu.com/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260720/nQDG/0X0/07201030.png;md5;373af0a66bdecff3a7baedf380496f2b",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
     {
       "key": "豆瓣",
