@@ -7,7 +7,7 @@
   "sites": [
     {
       "key": "豆瓣2",
-      "name": "泰克合成测试",
+      "name": "最后合成测试",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
