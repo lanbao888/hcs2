@@ -48,6 +48,16 @@
       "api": "csp_App3Q"
     },
     {
+      "key": "天天",
+      "name": "⛅天天",
+      "type": 3,
+      "api": "csp_TTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
+    },
+    {
       "key": "大鹅",
       "name": "💡大鹅┃影视",
       "type": 3,
