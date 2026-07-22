@@ -1,0 +1,8 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "自用仓库勿删",
+      "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/lanbao888/hcs2/refs/heads/main/zynbxly.txt"
+    }
+  ]
+}
