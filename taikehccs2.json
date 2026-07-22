@@ -7,7 +7,7 @@
   "sites": [
     {
       "key": "豆瓣2",
-      "name": "祝影｜牛掰",
+      "name": "祝影｜测试",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
