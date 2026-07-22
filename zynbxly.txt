@@ -1,8 +1,36 @@
 {
   "urls": [
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lanbao888/hcs2/refs/heads/main/taikehccs2.json",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lanbao888/hcs2/refs/heads/main/taikehccs2.json",
       "name": "祝影牛掰"
+    },
+    {
+      "url": "https://jihulab.com/lanbao888/hcsjx2/-/raw/main/hcs2.json",
+      "name": "英影测试"
+    },
+    {
+      "url": "https://a.nxog.top/apib.php?id=5",
+      "name": "潇洒改版闪退"
+    },
+    {
+      "url": "https://a.nxog.top/apib.php?id=7",
+      "name": "小米线路"
+    },
+    {
+      "url": "https://a.nxog.top/apib.php?id=9",
+      "name": "PG线路"
+    },
+    {
+      "url": "https://a.nxog.top/apib.php?id=14",
+      "name": "七星线路"
+    },
+    {
+      "url": "https://a.nxog.top/apib.php?id=20",
+      "name": "南风线路"
+    },
+    {
+      "url": "https://a.nxog.top/apib.php?id=22",
+      "name": "网络收集测试用"
     }
   ]
 }
