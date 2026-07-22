@@ -1157,6 +1157,14 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "myzy",
+      "type": 0,
+      "url": "http://wangziduoqing.com/yuan/zb.txt",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "tv",
       "type": 0,
       "url": "https://tv.nxog.top/m/tv/?ou=213",
