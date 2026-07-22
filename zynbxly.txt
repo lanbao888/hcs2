@@ -2,11 +2,11 @@
   "urls": [
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lanbao888/hcs2/refs/heads/main/taikehccs2.json",
-      "name": "祝影牛掰"
+      "name": "祝影测试"
     },
     {
       "url": "https://jihulab.com/lanbao888/hcsjx2/-/raw/main/hcs2.json",
-      "name": "英影测试"
+      "name": "英影极狐"
     },
     {
       "url": "https://a.nxog.top/apib.php?id=5",
