@@ -42,6 +42,14 @@
       }
     },
     {
+      "key": "麦田",
+      "name": "🔥麦田┃影视",
+      "type": 3,
+      "api": "csp_AppV6",
+      "ext": "http://172.247.227.203:25321/mtys.php",
+      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
+    },
+    {
       "key": "三秋影视",
       "name": "💡三秋｜快快",
       "type": 3,
