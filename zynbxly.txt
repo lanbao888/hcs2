@@ -9,7 +9,7 @@
       "name": "英影极狐"
     },
     {
-      "url": "https://a.nxog.top/apib.php?id=5",
+      "url": "https://9877.kstore.space/one.json",
       "name": "潇洒改版闪退"
     },
     {
