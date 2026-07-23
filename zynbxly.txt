@@ -10,7 +10,7 @@
     },
     {
       "url": "https://9877.kstore.space/one.json",
-      "name": "潇洒改版闪退"
+      "name": "潇洒改版"
     },
     {
       "url": "https://a.nxog.top/apib.php?id=7",
