@@ -1181,13 +1181,6 @@
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-	{
-		"name": "D佬直播",
-		"type": 0,
-		"url": "http://rihou.cc:555/gggg.nzk",
-		"timeout": 10,
-		"playerType": 2
-	},
     {
       "name": "develop202",
       "type": 0,
@@ -1197,9 +1190,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "tv",
+      "name": "tvD佬直播",
       "type": 0,
-      "url": "https://tv.nxog.top/m/tv/?ou=213",
+      "url": "http://rihou.cc:555/gggg.nzk",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
       "playerType": 2,
