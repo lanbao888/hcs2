@@ -2,7 +2,11 @@
   "urls": [
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lanbao888/hcs2/refs/heads/main/taikehccs2.json",
-      "name": "蜜橙时光"
+      "name": "祝影蜜橙"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lanbao888/PYZY/refs/heads/main/xmdszy.json",
+      "name": "小米电视专用"
     },
     {
       "url": "https://9877.kstore.space/one.json",
