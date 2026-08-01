@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "Tg豆瓣",
-      "name": "蜜橙┃时光",
+      "name": "💘祝影追剧┃蜜橙时光💘",
       "type": 3,
       "api": "csp_TgYunDouBanPan",
       "searchable": 0,
@@ -486,6 +486,25 @@
       "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XYQHiker/电影港.json"
     },
     {
+      "key": "不戳",
+      "name": "不戳 • APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://appcmszbc.zbc4k.app",
+        "dataKey": "pYrEkiWRYhBLTUTC",
+        "dataIv": "pYrEkiWRYhBLTUTC"
+      }
+    },
+    {
+      "key": "山楂影视",
+      "name": "山楂 • 影视",
+      "type": 3,
+      "api": "csp_PianKu8"
+    },
+    {
       "key": "农民",
       "name": "🧿农民｜影视",
       "type": 3,
@@ -913,6 +932,23 @@
     }
   ],
   "lives": [
+    {
+      "name": "裤  佬 ",
+      "type": 0,
+      "url": "https://www.iyouhun.com/tv/klzb",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "guovin不错",
+      "type": 0,
+      "url": "https://www.iyouhun.com/tv/guovin",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
     {
       "name": "Yoursmile",
       "type": 0,
