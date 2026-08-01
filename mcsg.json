@@ -689,7 +689,7 @@
       "ext": {
         "sites": "https://www.4kcz.com,https://www.cz4k.com,https://czzy.top",
         "filters": ""
-      },
+      }
     },
     {
       "key": "csp_Kugou",
