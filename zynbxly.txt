@@ -1,8 +1,8 @@
 {
   "urls": [
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lanbao888/hcs2/refs/heads/main/taikehccs2.json",
-      "name": "祝影蜜橙"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lanbao888/hcs2/refs/heads/main/mcsg.json",
+      "name": "祝影追剧💘蜜橙时光"
     },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/lanbao888/PYZY/refs/heads/main/xmdszy.json",
