@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "Tg豆瓣",
-      "name": "💘祝影追剧┃蜜橙时光💘",
+      "name": "💘祝影追剧┃蜜橙时光1💘",
       "type": 3,
       "api": "csp_TgYunDouBanPan",
       "searchable": 0,
@@ -687,7 +687,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "ext": {
-        "sites": "https://www.4kcz.com,https://www.cz4k.com,https://czzy.top",
+        "sites": "https://www.4kcz.com",
         "filters": ""
       },
       "jar": "https://nos.netease.com/ysf/4022779a787e68082599baafab8e0537.png"
