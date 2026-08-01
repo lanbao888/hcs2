@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "Tg豆瓣",
-      "name": "💘祝影追剧┃蜜橙时光5💘",
+      "name": "💘祝影追剧┃蜜橙时光💘",
       "type": 3,
       "api": "csp_TgYunDouBanPan",
       "searchable": 0,
@@ -689,7 +689,8 @@
       "ext": {
         "sites": "https://www.4kcz.com,https://www.cz4k.com,https://czzy.top",
         "filters": ""
-      }
+      },
+      "jar": "https://nos.netease.com/ysf/4022779a787e68082599baafab8e0537.png"
     },
     {
       "key": "csp_Kugou",
