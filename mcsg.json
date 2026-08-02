@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "好想吃 • 1榴莲了",
+      "name": "💘祝影追剧┃蜜橙时光💘",
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://img.51shazhu.com/autoupload/g1b6f/20260731/LJbk/0X0/07311646.png;md5;e2c95d03234769407f05f3de984d6d7f",
@@ -12,7 +12,7 @@
     },
     {
       "key": "Tg豆瓣",
-      "name": "💘祝影追剧┃蜜橙时光💘",
+      "name": "欧歌网络收集+南风线路",
       "type": 3,
       "api": "csp_TgYunDouBanPan",
       "searchable": 1,
