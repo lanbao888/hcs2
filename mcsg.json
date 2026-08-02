@@ -3,6 +3,13 @@
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
+      "key": "豆瓣",
+      "name": "好想吃 • 榴莲了",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    {
       "key": "Tg豆瓣",
       "name": "💘祝影追剧┃蜜橙时光💘",
       "type": 3,
