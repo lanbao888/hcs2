@@ -4,11 +4,12 @@
   "sites": [
     {
       "key": "Tg豆瓣",
-      "name": "💘祝影追剧┃蜜橙时光💘",
+      "name": "💘祝影追剧┃蜜橙时光9💘",
       "type": 3,
-      "api": "csp_TgYunDouBanPan",
+      "api": "csp_Douban",
       "searchable": 0,
       "changeable": 0,
+      "jar": "https://img.51shazhu.com/autoupload/g1b6f/20260731/LJbk/0X0/07311646.png;md5;e2c95d03234769407f05f3de984d6d7f",
       "ext": {
         "siteUrl": "http://127.0.0.1:9999",
         "count": 4,
