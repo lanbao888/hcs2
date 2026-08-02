@@ -4,9 +4,10 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "好想吃 • 榴莲了",
+      "name": "好想吃 • 1榴莲了",
       "type": 3,
       "api": "csp_Douban",
+      "jar": "https://img.51shazhu.com/autoupload/g1b6f/20260731/LJbk/0X0/07311646.png;md5;e2c95d03234769407f05f3de984d6d7f",
       "searchable": 0
     },
     {
